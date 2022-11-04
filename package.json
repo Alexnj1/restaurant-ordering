@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-ordering",
+  "version": "1.0.0",
+  "description": "Restaurant meal ordering application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexnj1/restaurant-ordering.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexnj1/restaurant-ordering/issues"
+  },
+  "homepage": "https://github.com/Alexnj1/restaurant-ordering#readme"
+}
